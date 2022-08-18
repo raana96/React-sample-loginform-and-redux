@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(0, 30, 60);
+  color:#ffffff
+}
+a {
+  color:#00c5ff
+}
+.iconDrawer{
+  color: #00c5ff
+}
+.paper{
+  padding: 20px;
+  text-align: center;
+  align-items: center ;
+  vertical-align: middle;
+  justify-content: center;
+  margin: auto;
+}
+.avatar{
+  background-color: yellow !important;
+  width: 80px !important;
+  height: 80px !important;
+  margin: auto;
+  
+}
+.toolbarIcon{
+  color : rgba(255,255,255,0.69)!important;
+}
