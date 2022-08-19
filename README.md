@@ -1,5 +1,5 @@
 # react-sample-redux
-react-sample-redux
+React-sample-loginform-and-redux 
 
 This is a test project and sample code for redux, react and material ui version 5.
 
